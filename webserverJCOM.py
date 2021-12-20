@@ -7,7 +7,7 @@ mi_pagina = '''
 <body>
 <h1>Hola Mundo!</h1>
 <h2>Soy Bluky</h2>
-<img src='imagenes/Bluky.jpg'>
+<img src='imagenes/bosque2.jpg'>
 </body>
 </html>
 '''
